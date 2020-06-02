@@ -1,5 +1,7 @@
 package practice;
 
+import practice.utility.TreeNode;
+
 public class Day1_InvertTree {
 
     public TreeNode invertTree(TreeNode root) {
