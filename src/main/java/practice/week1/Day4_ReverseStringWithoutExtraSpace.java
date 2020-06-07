@@ -1,4 +1,4 @@
-package practice;
+package practice.week1;
 
 public class Day4_ReverseStringWithoutExtraSpace {
     public void reverseString(char[] s) {

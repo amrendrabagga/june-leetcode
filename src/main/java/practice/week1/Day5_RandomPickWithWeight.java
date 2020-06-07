@@ -1,4 +1,4 @@
-package practice;
+package practice.week1;
 
 import java.util.Arrays;
 import java.util.Random;

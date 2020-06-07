@@ -1,4 +1,4 @@
-package practice;
+package practice.week1;
 
 import practice.utility.TreeNode;
 
