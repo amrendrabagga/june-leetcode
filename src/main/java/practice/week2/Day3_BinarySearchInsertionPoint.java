@@ -3,7 +3,7 @@ package practice.week2;
 public class Day3_BinarySearchInsertionPoint {
     public static void main(String[] args) {
 
-        System.out.println(searchInsert(new int[]{1,2,3,4}, 4));
+        System.out.println(searchInsert(new int[]{1,2,3,5}, 4));
     }
     public static int searchInsert(int[] nums, int target) {
 
